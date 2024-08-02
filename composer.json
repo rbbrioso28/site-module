@@ -1,6 +1,5 @@
 {
 	"name": "rbbrioso28/site-module",
-	"type": "zend-module",
 	"require": {
 		"composer/installers": "^2.3"
 	},
