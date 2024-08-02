@@ -4,5 +4,8 @@
 	"type": "zend-module",
 	"require": {
 		"composer/installers": "^2.3"
+	},
+	"extra": {
+		"installer-name": "MelisDemoCommerce"
 	}
 }
