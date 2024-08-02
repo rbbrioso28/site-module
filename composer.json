@@ -5,9 +5,10 @@
 		"composer/installers": "^2.3"
 	},
 	"extra": {
-        	"installer-paths": {
-            		"module/MelisSites/{$name}": ["type:zend-module"]
-        	}
+		"installer-paths": {
+			"module/MelisSites/{$name}": [
+				"type:zend-module"
+			]
+		}
 	}
-    }
 }
