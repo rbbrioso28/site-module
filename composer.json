@@ -1,7 +1,7 @@
 {
 	"name": "rbbrioso28/site-module",
 	"module": "SiteModule",
-	"type": "zend-module",
+	"type": "melis-sites",
 	"require": {
 		"composer/installers": "^2.3"
 	},
