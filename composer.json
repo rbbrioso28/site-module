@@ -2,7 +2,7 @@
 	"name": "rbbrioso28/site-module",
 	"type": "melis-sites",
 	"require": {
-		"composer/installers": "^2.3"
+		"oomphinc/composer-installers-extender": "^2.0"
 	},
 	"extra": {
 		"installer-name": "MelisDemoCommerce"
